@@ -1,0 +1,24 @@
+# Config gerado pelo usuario
+lopes_config.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Downloads gerados
+Downloads/
+LopesPanel/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
