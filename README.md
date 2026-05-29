@@ -1,6 +1,6 @@
 # 🔴 Lopes' Panel
 
-> Baixador de vídeos e áudios do YouTube com interface hacker no terminal.
+> Baixador de vídeos e áudios do YouTube.
 
 ```
  ██╗      ██████╗ ██████╗ ███████╗███████╗      ██████╗  █████╗ ███╗   ██╗███████╗██╗
