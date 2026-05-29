@@ -23,9 +23,6 @@
 | `[03]` | Configurar pastas de destino |
 | `[04]` | Sair |
 
-- Interface colorida estilo terminal hacker
-- Barra de progresso animada com velocidade e ETA
-- Abre CMD automaticamente ao dar duplo clique
 - Configurações salvas em `lopes_config.json`
 - Instala `yt-dlp` automaticamente se não estiver presente
 
